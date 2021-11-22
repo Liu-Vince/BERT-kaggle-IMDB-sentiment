@@ -231,12 +231,5 @@ python run_classifier.py
 
 ****
 
-<<<<<<< HEAD
-kaggle链接： [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial/overview)
-=======
-<<<<<<< HEAD
-kaggle链接： [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial/overview)
 =======
 kaggle链接： [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial/overview)
->>>>>>> 10c3a8e (1.0)
->>>>>>> fba76b0 (1.0)
